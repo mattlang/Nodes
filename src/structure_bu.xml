@@ -1,0 +1,93 @@
+<cat catname="begin">
+	<cat catname="Art">
+			<cat catname="Nakamura" caturl="http://amaztype.tha.jp/" />
+			<cat catname="Weskamp" caturl="http://www.marumushi.com/apps/newsmap/newsmap.cfm" />
+			<cat catname="Web Wizards" caturl="http://www.designmuseum.org/digital" />
+			<cat catname="Tarbell" caturl="http://www.complexification.net" />
+			<cat catname="Soundtoys" caturl="http://www.soundtoys.net" />
+			<cat catname="Potatoland" caturl="http://www.potatoland.org" />
+			<cat catname="Hodgkin" caturl="http://www.flight404.com/version8/index.html" />
+			<cat catname="Lianiana" caturl="http://art.teleportacia.org" />
+			<cat catname="Rothaug" caturl="http://www.zumkuckuck.com/carnivore" />
+			<cat catname="Dextro" caturl="http://www.dextro.org/" />
+	</cat>
+	
+	<cat catname="Research">
+			<cat catname="Eyetracker" caturl="http://poynterextra.org/eyetrack2004/main.htm"/>
+			<cat catname="IEEE" caturl="http://vis.computer.org/vis2006/"/>
+			<cat catname="Schneider" caturl="http://vis.computer.org/vis2005contest/schneider/"/>
+			<cat catname="Fry" caturl="http://acg.media.mit.edu/people/fry/index.html"/>
+			<cat catname="CAIDA" caturl="http://www.caida.org/analysis/topology/as_core_network"/>
+			<cat catname="ATT" caturl="http://www.research.att.com/areas/visualization/"/>
+			<cat catname="Equator" caturl="http://www.equator.ac.uk/"/>
+			<cat catname="PARC" caturl="http://www.parc.com/"/>
+			<cat catname="Chen" caturl="http://www.pages.drexel.edu/~cc345/"/>
+	</cat>
+	
+	<cat catname="Net Truth">
+			<cat catname="Boing Boing" caturl="http://www.boingboing.net/"/>
+			<cat catname="Snopes" caturl="http://www.snopes.com/photos/"/>
+			<cat catname="Pew/Internet" caturl="http://www.pewinternet.org/"/>
+	</cat>
+	
+	<cat catname="Books">
+			<cat catname="Chen" caturl="http://www.amazon.com/gp/product/1852337893/002-0214081-8092052?v=glance&n=283155"/>
+			<cat catname="Abrams" caturl="http://www.amazon.com/gp/product/0972969624/qid=1153108042/sr=2-1/ref=pd_bbs_b_2_1/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Fletcher" caturl="http://www.amazon.com/gp/product/0714834491/sr=8-1/qid=1153108138/ref=sr_1_1/002-0214081-8092052?ie=UTF8"/>
+			<cat catname="Turchi" caturl="http://www.amazon.com/gp/product/159534005X/qid=1153108199/sr=2-1/ref=pd_bbs_b_2_1/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Harmon" caturl="http://www.amazon.com/gp/product/1568984308/qid=1153108248/sr=1-9/ref=sr_1_9/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Helfland" caturl="http://www.amazon.com/gp/product/1568983387/qid=1153108313/sr=1-1/ref=sr_1_1/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Holmes" caturl="http://www.amazon.com/gp/product/1582345228/ref=pd_sim_b_2/002-0214081-8092052?%5Fencoding=UTF8&v=glance&n=283155"/>
+			<cat catname="Harris" caturl="http://www.amazon.com/gp/product/0195135326/qid=1153108423/sr=1-1/ref=sr_1_1/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Bederson" caturl="http://www.amazon.com/gp/product/1558609156/qid=1153108471/sr=1-2/ref=sr_1_2/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Ornstein" caturl="http://www.amazon.com/gp/product/0156006278/qid=1153108639/sr=2-3/ref=pd_bbs_b_2_3/002-0214081-8092052?s=books&v=glance&n=283155"/>
+			<cat catname="Berners-Lee" caturl="http://www.amazon.com/gp/product/026256212X/qid=1153108707/sr=1-2/ref=sr_1_2/002-0214081-8092052?s=books&v=glance&n=283155"/>
+	</cat>
+	
+	<cat catname="Biz">
+			<cat catname="Firstborn" caturl="http://www.firstbornmultimedia.com/"/>
+			<cat catname="Futurefarmers" caturl="http://futurefarmers.com/"/>
+			<cat catname="Organic" caturl="http://threeminds.organic.com/threeminds_how_we_create/index.html"/>
+			<cat catname="Asymptote" caturl="http://www.nai.nl/e/extras_e/webfile_asymptote/index.html"/>
+			<cat catname="Playtype" caturl="http://www.playtype.com/"/>
+			<cat catname="Lecielestbleu" caturl="http://www.lecielestbleu.com"/>
+			<cat catname="Lumeta" caturl="http://www.lumeta.com/"/>
+			<cat catname="Starlight" caturl="http://starlight.pnl.gov/"/>
+			<cat catname="Ikatun" caturl="http://www.ikatun.com/institute/infinitelysmallthings/corporatecommands"/>
+			<cat catname="Ragus" caturl="http://dack.com/web/bullshit.html"/>
+	</cat>
+	
+	<cat catname="Browsers">
+			<cat catname="Habbo Hotel" caturl="http://www.habbohotel.com/"/>
+			<cat catname="Thinkmap" caturl="http://thinkmap.com/"/>
+			<cat catname="Flickr" caturl="http://flickr.com/"/>
+			<cat catname="Grokker" caturl="http://grokker.com"/>
+			<cat catname="Kartoo" caturl="http://www.kartoo.net/e/eng/index.html"/>
+			<cat catname="HCIL" caturl="http://www.cs.umd.edu/hcil/pubs/products.shtml"/>
+			<cat catname="Googlepedia" caturl="https://addons.mozilla.org/firefox/2517/"/>
+			<cat catname="Vivisimo" caturl="http://vivisimo.com/"/>
+			<cat catname="Google" caturl="http://www-db.stanford.edu/~backrub/google.html"/>
+			<cat catname="Inxight" caturl="http://www.inxight.com/products/vizserver/"/>
+			<cat catname="Starry Night" caturl="http://www.starrynight.com/support/KnowledgeBase5/index.php?page=index_v2&id=230&c=root"/>
+			<cat catname="Sinnzeug" caturl="http://sinnzeug.de/"/>
+			<cat catname="Second Life" caturl="http://secondlife.com/"/>
+	</cat>
+	
+	<cat catname="Open Source">
+			<cat catname="Processing" caturl="http://processing.org"/>
+			<cat catname="Carnivore" caturl="http://rhizome.org/carnivore"/>
+			<cat catname="Schmidt" caturl="http://www.toxi.co.uk"/>
+	</cat>
+	
+	<cat catname="Maps">
+			<cat catname="Edward Tufte" caturl="http://www.edwardtufte.com/tufte/"/>
+			<cat catname="Wattenberg" caturl="http://www.mundi.net/maps/maps_023/"/>
+			<cat catname="Dodge" caturl="http://www.cybergeography.org/atlas/atlas.html"/>
+			<cat catname="Maps.net" caturl="http://maps.net/"/>
+			<cat catname="Google Earth" caturl="http://earth.google.com/"/>
+			<cat catname="Websom" caturl="http://websom.hut.fi/websom/milliondemo/html/root.html"/>
+			<cat catname="Orgnet" caturl="http://orgnet.com/"/>
+	</cat>
+	
+	
+</cat>
