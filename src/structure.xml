@@ -1,4 +1,5 @@
 <cat catname="Info-Vis">
+	<color_variables cluster_linecolor="0xFF0000" node_linecolor="0xFFD700"/>
 	<cat catname="Art">
 			<cat catname="Nakamura" caturl="http://amaztype.tha.jp/" />
 			<cat catname="Weskamp" caturl="http://www.marumushi.com/apps/newsmap/newsmap.cfm" />
